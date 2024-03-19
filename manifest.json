@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "HLTV Lite",
     "version": "0.0.1",
-    "description": "HLTV Lite",
+    "description": "HLTV Lite is a lightweight version of HLTV.org, with less ads and more content.",
     "author": {
       "email": "xfelipesobral@gmail.com"
     },
