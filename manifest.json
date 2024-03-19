@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "HLTV Lite",
+    "version": "0.0.1",
+    "description": "HLTV Lite",
+    "author": {
+      "email": "xfelipesobral@gmail.com"
+    },
+    "icons": {
+      "48": "images/icon-48.png",
+      "128": "images/icon-128.png"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://*.hltv.org/*"],
+        "js": ["scripts/main.js"]
+      }
+    ]
+  }
