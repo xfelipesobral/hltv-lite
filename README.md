@@ -1,6 +1,6 @@
 # HLTV Lite
 
-HLTV Lite is a lightweight version of HLTV.org, with less ads and more content.
+HLTV Lite is a Google Chrome extension designed to provide a streamlined and ad-free browsing experience on HLTV.org, a popular platform for esports news and statistics.
 
 ## Features
 
